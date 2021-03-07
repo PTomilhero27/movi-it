@@ -2,9 +2,9 @@
 -------------------------------------------------------------------------------------------
 Aplicação inspirada na quarta edição da NLW da rocketseet
 -------------------------------------------------------------------------------------------
-![move-it](https://user-images.githubusercontent.com/70902978/110255003-74f1cb00-7f70-11eb-894e-a0f15fd1d608.png)
-![move-it desafio](https://user-images.githubusercontent.com/70902978/110255004-7622f800-7f70-11eb-82e7-9a21a31f2191.png)
-![move-it levelUp](https://user-images.githubusercontent.com/70902978/110255006-76bb8e80-7f70-11eb-890b-72ae061aef06.png)
+![move-it](https://user-images.githubusercontent.com/70902978/110255795-4ece2a00-7f74-11eb-9fc8-2e2bbb723fa4.png)
+![move-it desafio](https://user-images.githubusercontent.com/70902978/110255797-4f66c080-7f74-11eb-80a6-0496e8ce90cf.png)
+![move-it levelUp](https://user-images.githubusercontent.com/70902978/110255798-4f66c080-7f74-11eb-998c-a212a258b7fc.png)
 -------------------------------------------------------------------------------------------------------------------------
 👁‍🗨 Objetivo da aplicação 
 
